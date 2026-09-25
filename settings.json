@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalxdff.aternos.me",
+    "ip": "survivalxdff.aternos.me"
     "port": 45392,
     "version": "26.3"
   },
